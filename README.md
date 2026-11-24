@@ -6,7 +6,7 @@
 **Fluxo escolhido:** emissão da **Guia de Transporte**
 
 **Execução:** local, no emulador oficial da Cloudflare (`wrangler dev`, runtime `workerd`) — publicar na nuvem é opcional nesta atividade
-**Vídeo:** [`video/apresentacao.mp4`](video/apresentacao.mp4) (2min45s, narrado)
+**Vídeo (2min45s):** ▶️ https://youtu.be/2YgPv3JjHj4 — cópia no repositório: [`video/apresentacao.mp4`](video/apresentacao.mp4)
 
 ## O que a função faz
 
